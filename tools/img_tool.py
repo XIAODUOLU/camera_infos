@@ -1,7 +1,7 @@
 import cv2
 import os
 
-width_normalize = 500
+width_normalize = 900
 
 def normalize_imgs(src_dir, dst_dir):
     filenames = os.listdir(src_dir)
