@@ -6,6 +6,7 @@
       {
         "id": "79f3061c1a2bd067",
         "type": "tabs",
+        "dimension": 43.09210526315789,
         "children": [
           {
             "id": "232ffa8ff90258d7",
@@ -24,6 +25,7 @@
       {
         "id": "4e90d072a7fcbdac",
         "type": "tabs",
+        "dimension": 56.9078947368421,
         "children": [
           {
             "id": "be86f11d9d0c3a5e",
@@ -166,12 +168,12 @@
   },
   "active": "232ffa8ff90258d7",
   "lastOpenFiles": [
-    "imgs/单反微单对比图.jpeg",
+    "相机攻略/imgs/单反微单对比图.jpeg",
     "相机攻略/相机总论（概论）.md",
-    "imgs/单反微单体型对比.jpg",
+    "相机攻略/imgs/单反微单体型对比.jpg",
     "imgs/单反微单体型对比.jpg.crdownload",
     "imgs/单反微单对比图.jpeg.crdownload",
-    "imgs",
+    "相机攻略/imgs",
     "readme.md"
   ]
 }
