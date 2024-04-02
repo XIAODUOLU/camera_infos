@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "79f3061c1a2bd067",
+        "id": "878b54c1da0f9e45",
         "type": "tabs",
-        "dimension": 43.09210526315789,
+        "dimension": 59.92268041237113,
         "children": [
           {
-            "id": "232ffa8ff90258d7",
+            "id": "8ec09ca88afc23d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,12 +23,12 @@
         ]
       },
       {
-        "id": "4e90d072a7fcbdac",
+        "id": "76676e91766d723b",
         "type": "tabs",
-        "dimension": 56.9078947368421,
+        "dimension": 40.07731958762887,
         "children": [
           {
-            "id": "be86f11d9d0c3a5e",
+            "id": "e819ae42c8eec8cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,8 +166,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "232ffa8ff90258d7",
+  "active": "8ec09ca88afc23d8",
   "lastOpenFiles": [
+    "相机攻略/镜头细则.md",
+    "相机攻略/相机总论（概论）.md",
     "tools/img_tool.py~",
     "tools/img_tool.py",
     "tools",
@@ -178,7 +180,6 @@
     "imgs/单反微单体型对比.jpg",
     "imgs",
     "相机攻略/imgs/单反微单对比图.jpeg",
-    "相机攻略/相机总论（概论）.md",
     "相机攻略/imgs/单反微单体型对比.jpg",
     "imgs/单反微单体型对比.jpg.crdownload",
     "imgs/单反微单对比图.jpeg.crdownload",
