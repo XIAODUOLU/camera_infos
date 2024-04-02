@@ -4,39 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "878b54c1da0f9e45",
+        "id": "0bbfddff0f2ba782",
         "type": "tabs",
-        "dimension": 59.92268041237113,
         "children": [
           {
-            "id": "8ec09ca88afc23d8",
+            "id": "09fd63d02d731cee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "相机攻略/相机总论（概论）.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "76676e91766d723b",
-        "type": "tabs",
-        "dimension": 40.07731958762887,
-        "children": [
-          {
-            "id": "e819ae42c8eec8cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "相机攻略/相机总论（概论）.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "相机攻略/相机总论（概论）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "相机攻略/相机总论（概论）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,16 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "相机攻略/相机总论（概论）.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +138,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8ec09ca88afc23d8",
+  "active": "09fd63d02d731cee",
   "lastOpenFiles": [
-    "相机攻略/镜头细则.md",
     "相机攻略/相机总论（概论）.md",
+    "相机攻略/镜头细则.md",
     "tools/img_tool.py~",
     "tools/img_tool.py",
     "tools",
