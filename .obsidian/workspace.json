@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "3b91977b87bc2a5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e74e8a31e0cd9407",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18a0025d4e3d51a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "相机攻略/相机总论（概论）.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "79f3061c1a2bd067",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "232ffa8ff90258d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "相机攻略/相机总论（概论）.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "014a989a8640de05",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccca9c68e26d8ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "190108ca61e8d006",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dfd94e23ce035cc7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09e328a309d7adff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5a3fa3aecf4508b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ba7ab468fc67a68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad9b17bb3de05983",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "相机攻略/相机总论（概论）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75896fa6cc2c3987",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "相机攻略/相机总论（概论）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67fef3ad3eb3c566",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bea71034cd74fa08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "相机攻略/相机总论（概论）.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "18a0025d4e3d51a2",
+  "lastOpenFiles": []
+}
