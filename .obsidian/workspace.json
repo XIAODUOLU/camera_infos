@@ -11,11 +11,28 @@
             "id": "4e0cb29db5867f89",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "相机攻略/相机总论（概论）.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "704976e4c26d86b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "相机攻略/镜头细则.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "相机攻略/镜头细则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "相机攻略/镜头细则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "相机攻略/镜头细则.md"
+              }
             }
           }
         ]
@@ -138,11 +159,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4e0cb29db5867f89",
+  "active": "704976e4c26d86b0",
   "lastOpenFiles": [
-    "相机攻略/佳能细则.md",
+    "相机攻略/尼康细则.md",
     "相机攻略/镜头细则.md",
     "相机攻略/相机总论（概论）.md",
+    "相机攻略/佳能细则.md",
     "tools/img_tool.py~",
     "tools/img_tool.py",
     "tools",
