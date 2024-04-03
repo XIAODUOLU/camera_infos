@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "0bbfddff0f2ba782",
+        "id": "7aec39095e431fca",
         "type": "tabs",
         "children": [
           {
-            "id": "09fd63d02d731cee",
+            "id": "9a2d3891cd06cdfa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "相机攻略/镜头细则.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6a76a97a8f0c1b22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "658415995d6d0055",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "相机攻略/镜头细则.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "相机攻略/镜头细则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "相机攻略/镜头细则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "相机攻略/镜头细则.md"
+              }
             }
           }
         ]
@@ -138,7 +164,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "09fd63d02d731cee",
+  "active": "658415995d6d0055",
   "lastOpenFiles": [
     "相机攻略/相机总论（概论）.md",
     "相机攻略/镜头细则.md",
