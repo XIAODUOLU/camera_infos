@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7aec39095e431fca",
+        "id": "e8a12d74834aa061",
         "type": "tabs",
         "children": [
           {
-            "id": "9a2d3891cd06cdfa",
+            "id": "4e0cb29db5867f89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "相机攻略/佳能细则.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a3fa3aecf4508b3",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "相机攻略/佳能细则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "相机攻略/佳能细则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "相机攻略/佳能细则.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,11 +138,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9a2d3891cd06cdfa",
+  "active": "4e0cb29db5867f89",
   "lastOpenFiles": [
-    "相机攻略/相机总论（概论）.md",
     "相机攻略/佳能细则.md",
     "相机攻略/镜头细则.md",
+    "相机攻略/相机总论（概论）.md",
     "tools/img_tool.py~",
     "tools/img_tool.py",
     "tools",
